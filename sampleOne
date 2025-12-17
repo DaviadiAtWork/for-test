@@ -1,0 +1,101 @@
+{
+  "CertList": [
+    {
+      "CertID": "c863d3a1-6058-492d-852d-9ae9ab1292d2",
+      "ProductType": "Game",
+      "DateCreated": "2025-07-18T23:21:51.307Z",
+      "RatingLogicVersion": "10.2",
+      "SummaryText": [
+        "App is a game",
+        "Can purchase digital goods"
+      ],
+      "InteractiveElementIDs": [
+        11,
+        23
+      ],
+      "Ratings": [
+        {
+          "RatingID": "60285abb-cfc7-45a0-8ad5-959a7cb1fc93",
+          "RatingBoardID": 12,
+          "AgeRatingID": 269,
+          "DescriptorIDs": [
+            1167,
+            1166,
+            1168
+          ],
+          "IEs": [
+            11,
+            23
+          ],
+          "IsOverride": true,
+          "IsCurrentRating": true,
+          "IsTrad": false,
+          "DateCreated": "2025-07-19T18:37:30.01Z"
+        }
+      ],
+      "CertInstances": [
+        {
+          "StoreID": "store-ubisoft-connect",
+          "StoreName": "Ubisoft Connect",
+          "DeveloperID": "dev-id-1234",
+          "DeveloperName": "Ada Lovelace",
+          "PublicDeveloperEmail": null,
+          "DeveloperPhone": null,
+          "CountryOfOrigin": null,
+          "ProductID": "kingdomsofleviathan-123",
+          "ParentProductID": "",
+          "ParentRated": false,
+          "ProductName": "Kingdoms of Leviathan: The Prodigy",
+          "ProductUrl": "https://www.initech-solutions.com/product-id-1234",
+          "InitialPublishDate": "2025-09-24T23:24:04.333Z",
+          "DatePublished": "2022-07-18T23:58:01.82Z",
+          "DateUnpublished": null,
+          "Active": true,
+          "Invalid": false,
+          "InAppPurchases": true,
+          "Genres": [
+            {
+              "LanguageID": "en-US",
+              "Genres": ["Fighting", "Music", "Live2D"]
+            }
+          ],
+          "Platforms": [
+            {
+              "Name":"Nintendo 3DS",
+              "MinOS":"OS 1.1"        
+            },
+            {
+              "Name":"Asus TechPro",
+              "MinOS":"OS 1.1"        
+            }
+          ],
+          "ProductSummaries": [
+            {
+                "LanguageID": "en-US",
+                "Summary": "Teh adalah minuman yang dibuat dari daun tanaman Camellia sinensis yang dikeringkan dan diseduh dengan air panas. Minuman ini telah menjadi bagian penting dari budaya banyak negara selama ribuan tahun, dikenal karena cita rasanya yang khas, aroma yang menenangkan, serta manfaat kesehatannya. Terdapat berbagai jenis teh seperti teh hijau, teh hitam, teh putih, dan teh oolong, yang masing-masing memiliki proses pengolahan dan karakteristik rasa berbeda. Selain dinikmati hangat, teh juga sering disajikan dingin, dicampur dengan susu, madu, atau rempah-rempah, menjadikannya salah satu minuman paling serbaguna dan populer di dunia."
+            }
+          ],
+          "CountryCodes": [
+            "ID",
+            "KR",
+            "US"
+          ],
+          "LocalizedData": [
+            {
+              "Title": "Office Space Invaders: TPS Report Simulator",
+              "LanguageID": "en-US",
+              "RegionalProductURL": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Result": {
+    "ResponseCode": "Success",
+    "ErrorID": "",
+    "MessageList": [
+      ""
+    ]
+  }
+}
