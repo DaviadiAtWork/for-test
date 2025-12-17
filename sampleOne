@@ -17,11 +17,13 @@
         {
           "RatingID": "60285abb-cfc7-45a0-8ad5-959a7cb1fc93",
           "RatingBoardID": 12,
-          "AgeRatingID": 269,
+          "AgeRatingID": 270,
           "DescriptorIDs": [
             1167,
             1166,
-            1168
+            1168,
+            1169,
+            1170
           ],
           "IEs": [
             11,
@@ -45,10 +47,10 @@
           "ProductID": "kingdomsofleviathan-123",
           "ParentProductID": "",
           "ParentRated": false,
-          "ProductName": "Kingdoms of Leviathan: The Prodigy",
+          "ProductName": "Kingdoms of Leviathan: The Exiled Prodigy",
           "ProductUrl": "https://www.initech-solutions.com/product-id-1234",
           "InitialPublishDate": "2025-09-24T23:24:04.333Z",
-          "DatePublished": "2022-07-18T23:58:01.82Z",
+          "DatePublished": "2020-07-18T23:58:01.82Z",
           "DateUnpublished": null,
           "Active": true,
           "Invalid": false,
@@ -56,14 +58,10 @@
           "Genres": [
             {
               "LanguageID": "en-US",
-              "Genres": ["Fighting", "Music", "Live2D"]
+              "Genres": ["Music", "Live2D", "3DExperience"]
             }
           ],
           "Platforms": [
-            {
-              "Name":"Nintendo 3DS",
-              "MinOS":"OS 1.1"        
-            },
             {
               "Name":"Asus TechPro",
               "MinOS":"OS 1.1"        
@@ -72,7 +70,7 @@
           "ProductSummaries": [
             {
                 "LanguageID": "en-US",
-                "Summary": "Teh adalah minuman yang dibuat dari daun tanaman Camellia sinensis yang dikeringkan dan diseduh dengan air panas. Minuman ini telah menjadi bagian penting dari budaya banyak negara selama ribuan tahun, dikenal karena cita rasanya yang khas, aroma yang menenangkan, serta manfaat kesehatannya. Terdapat berbagai jenis teh seperti teh hijau, teh hitam, teh putih, dan teh oolong, yang masing-masing memiliki proses pengolahan dan karakteristik rasa berbeda. Selain dinikmati hangat, teh juga sering disajikan dingin, dicampur dengan susu, madu, atau rempah-rempah, menjadikannya salah satu minuman paling serbaguna dan populer di dunia."
+                "Summary": "Deskripsi dari summary diubah"
             }
           ],
           "CountryCodes": [
