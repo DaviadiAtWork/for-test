@@ -1,0 +1,52 @@
+{
+  "CertList": [
+    {
+      "CertID": "c863d3a1-6058-492d-852d-9ae9ab1292d2",
+      "Ratings": [
+        {
+          "AgeRatingID": 268,
+          "DescriptorIDs": [
+            1166,
+            1167
+          ]
+        }
+      ],
+      "CertInstances": [
+        {
+          "StoreID": "store-ubisoft-connect",
+          "StoreName": "Ubisoft Connect",
+          "DeveloperID": "dev-id-1234",
+          "DeveloperName": "Ada Lovelace",
+          "PublicDeveloperEmail": null,
+          "DeveloperPhone": null,
+          "ProductID": "testminimum1",
+          "ProductName": "Minimum Payload",
+          "ProductUrl": "https://www.initech-solutions.com/product-id-1234",
+          "DatePublished": "2023-07-18T23:58:01.82Z",
+          "Active": true,
+          "InAppPurchases": true,
+          "Genres": [
+            {
+              "LanguageID": "en-US",
+              "Genres": ["Music", "Live2D", "3DExperience", "Jolly"]
+            }
+          ],
+          "Platforms": [
+            {
+              "Name":"Asus TechPro"
+            },
+            {
+              "Name":"Asus TechProMax"  
+            }
+          ],
+          "ProductSummaries": [
+            {
+                "LanguageID": "en-US",
+                "Summary": "Deskripsi dari summary diubah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
