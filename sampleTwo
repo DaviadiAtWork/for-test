@@ -1,7 +1,7 @@
 {
   "CertList": [
     {
-      "CertID": "c863d3a1-6058-492d-852d-9ae9ab1292d2",
+      "CertID": "igrs-cert",
       "Ratings": [
         {
           "AgeRatingID": 268,
@@ -19,24 +19,24 @@
           "DeveloperName": "Ada Lovelace",
           "PublicDeveloperEmail": null,
           "DeveloperPhone": null,
-          "ProductID": "testminimum1",
-          "ProductName": "Minimum Payload",
+          "ProductID": "testminimum2",
+          "ProductName": "Minimum Payload:2",
           "ProductUrl": "https://www.initech-solutions.com/product-id-1234",
-          "DatePublished": "2023-07-18T23:58:01.82Z",
+          "DatePublished": "2021-07-18T23:58:01.82Z",
           "Active": true,
           "InAppPurchases": true,
           "Genres": [
             {
               "LanguageID": "en-US",
-              "Genres": ["Music", "Live2D", "3DExperience", "Jolly"]
+              "Genres": ["Music", "Live2D", "3DExperience", "Jolly", "Holly"]
             }
           ],
           "Platforms": [
             {
-              "Name":"Asus TechPro"
+              "Name":"Asus TechAmateur"
             },
             {
-              "Name":"Asus TechProMax"  
+              "Name":"Asus TechProAmateur"  
             }
           ],
           "ProductSummaries": [
