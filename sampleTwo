@@ -15,7 +15,8 @@
         {
           "StoreID": "store-ubisoft-connect",
           "StoreName": "Ubisoft Connect",
-          "DeveloperID": "dev-id-1234",
+          "DeveloperName": "Ada Lovelace",
+          "PublicDeveloperEmail": null,
           "ProductID": "testminimum3",
           "ProductName": "Minimum Payload:3",
           "ProductUrl": "https://www.initech-solutions.com/product-id-1234",
