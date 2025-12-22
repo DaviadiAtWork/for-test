@@ -13,14 +13,14 @@
       ],
       "CertInstances": [
         {
-          "StoreID": "store-ubisoft-connect",
-          "StoreName": "Ubisoft Connect",
+          "StoreID": "store-max-gamestore",
+          "StoreName": "Max GameStore",
           "DeveloperName": "Ada Lovelace",
           "PublicDeveloperEmail": null,
-          "ProductID": "testminimum3",
-          "ProductName": "Minimum Payload:3",
+          "ProductID": "payload1a",
+          "ProductName": "Payload A: 1",
           "ProductUrl": "https://www.initech-solutions.com/product-id-1234",
-          "DatePublished": "2021-07-18T23:58:01.82Z",
+          "DatePublished": "2022-07-18T23:58:01.82Z",
           "Active": true,
           "InAppPurchases": true,
           "Genres": [
